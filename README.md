@@ -1,4 +1,6 @@
-# Coffee Shop Sales Analysis
+# Coffee Shop Sales Analysis 
+## Content
+[Project Introduction](https://github.com/sa-hin/Coffee_shop_sales_Analysis_Excel/blob/my-new-branch/README.md#project-introduction)
 
 Here is a demo video of my MS Excel Project
 
