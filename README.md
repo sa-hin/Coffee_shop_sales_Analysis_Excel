@@ -15,6 +15,9 @@
 6. [Functions and Formulas used](https://github.com/sa-hin/Coffee_shop_sales_Analysis_Excel/edit/my-new-branch/README.md#functions-and-features-in-excel)
 
 
+## Dashboard Link: [link](https://1drv.ms/x/c/54d16fb6b606000f/EefxsWphDcpNmHb7WPpL76UB92b_KDEjlw0vKGTKS3RtIg?e=qiJKEx)
+
+
 ## :point_right:__Here is a interactive Dashboard video__
 
 https://github.com/sa-hin/Coffee_shop_sales_Analysis_Excel/assets/57092234/bec1fef1-9bad-47c1-b14f-5769c14be35b 
@@ -25,7 +28,7 @@ This project analyzes sales data from a coffee shop, providing insights into tra
 ## :arrow_right:Dataset Overview
 Maven Roasters, a coffee shop chain with three branches in New York City, aims to enhance its understanding of customer purchasing behavior and optimize operational efficiency. The objective is to analyze coffee shop data to identify trends, patterns, and provide actionable recommendations for improvement. It has detailed records of each sale, including transaction ID, date, time, quantity, store location, product details, and total bill amount.
 
-## Key features
+## ➡️Key features
 :black_circle:__Time Analysis__: Breakdown of sales by hours, days, and months to identify peak sales periods.
 
 :black_circle:__Product Performance__: Analysis of different product categories, including coffee, tea, bakery items, and more.
@@ -34,7 +37,7 @@ Maven Roasters, a coffee shop chain with three branches in New York City, aims t
 
 :black_circle:__Customer Preferences__: Insights into popular product types, sizes, and special categories like sustainably grown products.
 
-## Project Structure
+## ➡️Project Structure
 
 __Transactions__: Raw transaction data for individual sales.
 
@@ -42,7 +45,7 @@ __Pivot Tables__: Precomputed summaries for quick reference and analysis.
 
 __Dashboard__: Visual tools and charts to aid in data interpretation. 
 
-## Tools Used ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Static Badge](https://img.shields.io/badge/Pivot-Tables-green) ![Static Badge](https://img.shields.io/badge/Chats_and-Graphs-red)
+## ➡️Tools Used ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Static Badge](https://img.shields.io/badge/Pivot-Tables-green) ![Static Badge](https://img.shields.io/badge/Chats_and-Graphs-red)
 
 
 __Excel__: The primary tool for data storage, analysis, and visualization.
@@ -51,7 +54,7 @@ __Pivot Tables__: For summarizing and aggregating data to provide insights.
 
 __Charts and Graphs__: For visual representation of data trends and patterns. 
 
-## Functions and Formulas used:
+## ➡️Functions and Formulas used:
 
 ### 1.Pivot Tables:
 
