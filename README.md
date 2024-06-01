@@ -102,15 +102,15 @@ __Charts and Graphs__: For visual representation of data trends and patterns.
 
 ## :arrow_right:Insights:
 The Coffee Shop Sales Analysis provides a comprehensive view of sales trends, product performance, and customer preferences. Key findings and actionable insights include: 
-  ### 1.Peak Sales Periods:
+  ### (i).Peak Sales Periods:
   + __Time of Day__: The highest sales occur during morning hours (8 AM - 10 AM), suggesting that most customers prefer to purchase coffee and breakfast items 
                      during this time.
   + __Days of the Week__: Sales are consistently higher on weekdays, particularly on Mondays, Thurdays and Fridays. 
   + __Monthly Trends__: There are significant sales spikes in April,May and June.
- ### 2.Product Performance:
+ ### (ii).Product Performance:
   + __Top-Selling Products__: Coffee remains the leading category,with Barista Espresso and Brewed Coffee being the most popular items. Tea and bakery items also perform well, though at lower volumes.
-### 3.Store Performance:
+### (iii).Store Performance:
   + __Location Analysis__: Stores like Hell's Kitchen,Astoria and Lower Manhattan located in high-traffic commercial areas show better performance, highlighting the importance of strategic location selection.
-### 4.Customer Preferences:
+### (iv).Customer Preferences:
  + __Product Sizes__: Regular sizes are preferred by customers, suggesting that promotions for regular-sized drinks could further increase sales.
 
