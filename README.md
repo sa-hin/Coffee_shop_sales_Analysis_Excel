@@ -72,8 +72,6 @@ __Charts and Graphs__: For visual representation of data trends and patterns.
 
   - __[AVERAGEIF/AVERAGEIFS](https://nodeca.github.io/pica/demo/)__- To calculate the average of cells that meet one or more criteria.
 
-  - __[VLOOKUP/HLOOKUP](https://nodeca.github.io/pica/demo/)__ - For looking up data in a table based on a key value.
-
   - __[IF](https://nodeca.github.io/pica/demo/)__ - For conditional operations, returning different values based on logical tests.
 
 ### 3.Charts and Graphs:
